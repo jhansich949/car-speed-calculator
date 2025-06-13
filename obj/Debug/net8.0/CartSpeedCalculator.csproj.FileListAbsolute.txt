@@ -1,0 +1,14 @@
+D:\Akram\POCs\CartSpeedCalculator\bin\Debug\net8.0\CartSpeedCalculator.exe
+D:\Akram\POCs\CartSpeedCalculator\bin\Debug\net8.0\CartSpeedCalculator.deps.json
+D:\Akram\POCs\CartSpeedCalculator\bin\Debug\net8.0\CartSpeedCalculator.runtimeconfig.json
+D:\Akram\POCs\CartSpeedCalculator\bin\Debug\net8.0\CartSpeedCalculator.dll
+D:\Akram\POCs\CartSpeedCalculator\bin\Debug\net8.0\CartSpeedCalculator.pdb
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\CartSpeedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\CartSpeedCalculator.AssemblyInfoInputs.cache
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\CartSpeedCalculator.AssemblyInfo.cs
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\CartSpeedCalculator.csproj.CoreCompileInputs.cache
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\CartSpeedCalculator.dll
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\refint\CartSpeedCalculator.dll
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\CartSpeedCalculator.pdb
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\CartSpeedCalculator.genruntimeconfig.cache
+D:\Akram\POCs\CartSpeedCalculator\obj\Debug\net8.0\ref\CartSpeedCalculator.dll
